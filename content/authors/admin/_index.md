@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amirhossein Tamjidi 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Software Engineer 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Zoox
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,18 +46,18 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=gZMWD_oAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ahtamjidi@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
